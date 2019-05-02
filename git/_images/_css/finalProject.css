@@ -1,0 +1,52 @@
+/* this style will apply to the whole body... */
+.colorscheme {
+    color: #E5DA9D;
+    color: #403D2C;
+    color: #FFF3AE;
+    color: #7F7957;
+    color: #BFB683;
+} 
+body {
+    background-color: black;
+}
+a {
+    color: green;
+}
+.container {
+    margin: 0 auto;
+    width: 1366px;
+    height: 768px;
+    background-color: rgb(238, 228, 173);
+
+}
+.banner {
+    width: 1121px;
+    height: 215px;
+    float: right;
+    color: white;
+    background-color: rgb(179, 165, 91);
+    font-family: Impact, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    text-align: center;
+}
+.nav{
+    width: 215px;
+    height: 553px;
+    float: right;
+    background-color: #FFF3AE;
+}
+.content{
+    width: 1121px;
+    height: 523px;
+    background-color: #7F7957;
+    float: left;
+    padding: 15px;
+}
+
+.testDiv{
+    width: 200px;
+    height: 200px;
+    background-color: #BFB683;
+    float: right;
+    padding: 15px;
+}
